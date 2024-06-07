@@ -7,11 +7,8 @@
 # Examples of Machine Learning Projects
 
 - **Medical Diagnosis:** Development of a machine learning model to identify skin cancer from images.
-
 - **Art Generation:** Creation of an algorithm to generate unique and visually appealing artwork.
-
 - **Engineering Applications:** Utilization of machine learning to optimize energy consumption in buildings.
-
 - **Literature Analysis:** Application of machine learning techniques to analyze and interpret literary texts.
 
 - **Earthquake Engineering:** Development of a machine learning model to predict earthquake patterns and assess structural damage.
