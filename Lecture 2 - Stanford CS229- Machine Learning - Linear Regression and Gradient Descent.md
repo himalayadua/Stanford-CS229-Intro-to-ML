@@ -5,3 +5,6 @@
 - workflow
 - what's the dataset?
 - what's the hypothesis?
+- How do you represent the hypothesis?
+    - single input
+    - multiple input
