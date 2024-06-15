@@ -19,3 +19,7 @@ size of house -> [h] -> estimated price
     - multiple input
 
 
+**Learning Algo**
+- Job
+    - choose parameters θ that allows you to make good predictions
+- choose θ such that `h(x) ~ y` for training example
