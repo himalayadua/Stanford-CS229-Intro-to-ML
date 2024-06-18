@@ -29,3 +29,5 @@ size of house -> [h] -> estimated price
 - Starting with some θ
 - Keep changing θ to reduce J(θ)
 
+![Gradient Descent](images/image.png)
+
