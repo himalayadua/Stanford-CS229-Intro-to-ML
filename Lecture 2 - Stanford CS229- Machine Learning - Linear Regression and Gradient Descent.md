@@ -31,3 +31,4 @@ size of house -> [h] -> estimated price
 
 ![Gradient Descent](images/image.png)
 
+****
