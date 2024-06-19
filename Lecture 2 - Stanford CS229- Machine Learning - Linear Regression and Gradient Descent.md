@@ -24,7 +24,11 @@ size of house -> [h] -> estimated price
     - choose parameters θ that allows you to make good predictions
 - choose θ such that `h(x) ~ y` for training example
 
-
+**Definition**
+- θ = parameters
+- M = # training examples
+    = # rows in table above
+- X = input / features
 
 **Gradient Descent**
 - Starting with some θ
@@ -32,4 +36,3 @@ size of house -> [h] -> estimated price
 
 ![Gradient Descent](images/image.png)
 
-****
