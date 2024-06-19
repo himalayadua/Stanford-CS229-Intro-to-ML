@@ -25,6 +25,7 @@ size of house -> [h] -> estimated price
 - choose θ such that `h(x) ~ y` for training example
 
 
+
 **Gradient Descent**
 - Starting with some θ
 - Keep changing θ to reduce J(θ)
