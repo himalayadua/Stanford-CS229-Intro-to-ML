@@ -30,6 +30,7 @@ size of house -> [h] -> estimated price
     = # rows in table above
 - X = input / features
 - Y = output / target variable
+- (x,y) = training example
 
 **Gradient Descent**
 - Starting with some θ
