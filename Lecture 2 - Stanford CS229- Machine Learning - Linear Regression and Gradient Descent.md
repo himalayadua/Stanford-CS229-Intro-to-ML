@@ -33,6 +33,7 @@ size of house -> [h] -> estimated price
 - Y = output / target variable
 - (x,y) = training example
 
+
 **Gradient Descent**
 - Starting with some θ
 - Keep changing θ to reduce J(θ)
