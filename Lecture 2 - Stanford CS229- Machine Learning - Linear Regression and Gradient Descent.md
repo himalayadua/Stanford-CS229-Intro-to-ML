@@ -6,7 +6,7 @@
 - function
 - hypothesis (h)
 
-example:
+**example:**
 size of house -> [h] -> estimated price
 
 **Design Choices**
