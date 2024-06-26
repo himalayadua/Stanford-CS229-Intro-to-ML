@@ -24,6 +24,7 @@ size of house -> [h] -> estimated price
     - choose parameters θ that allows you to make good predictions
 - choose θ such that `h(x) ~ y` for training example
 
+
 **Definition**
 - θ = parameters
 - M = # training examples
