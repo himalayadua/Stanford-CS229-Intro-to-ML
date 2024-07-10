@@ -19,5 +19,3 @@
 - **Literature Analysis:** A researcher employing machine learning to identify patterns and themes in historical documents.
 - **Earthquake Engineering:** A scientist using machine learning to analyze seismic data and develop earthquake preparedness strategies.
 
-
-# Types
