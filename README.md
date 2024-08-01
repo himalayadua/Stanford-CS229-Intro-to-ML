@@ -9,3 +9,4 @@ Lectures:
 - Lecture 3 - Locally Weighted & Logistic Regression _ Stanford CS229- Machine Learning
 - Lecture 4
 - Lecture 5
+- Lecture 6 

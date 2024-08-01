@@ -5,7 +5,6 @@
 -   Knowledge of basic linear algebra (matrices, vectors, matrix multiplication, eigenvectors).
 
 # Examples of Machine Learning Projects
-
 - **Medical Diagnosis:** Development of a machine learning model to identify skin cancer from images.
 - **Art Generation:** Creation of an algorithm to generate unique and visually appealing artwork.
 - **Engineering Applications:** Utilization of machine learning to optimize energy consumption in buildings.
