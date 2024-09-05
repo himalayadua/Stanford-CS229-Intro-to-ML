@@ -11,3 +11,5 @@ Lectures:
 - Lecture 4 - Perceptron & Generalized Linear Model
 - Lecture 5 - GDA & Naive Bayes 
 - Lecture 6 - Support Vector Machines
+
+
